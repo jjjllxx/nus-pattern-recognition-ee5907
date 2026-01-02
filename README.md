@@ -1,5 +1,10 @@
-# NUS-EE5907-Pattern-Recognition-Projects
-AY21/22 Semester1. NUS Pattern Recognition course(EE5907): project1 for SPAM, project2 for face recognition.
+# nus-pattern-recognition-ee5907
+AY21/22 Semester1. For NUS Pattern Recognition(EE5907), including project1(SPAM), project2(face recognition).
+
+Other NUS Course Projects: 
+- [EE5731 Visual Computing](https://github.com/jjjllxx/nus-visual-computing-ee5731)
+- [EE5904 Neural Networks](https://github.com/jjjllxx/nus-neural-networks-ee5904-me5904)
+- [EE5934 Deep Learning](https://github.com/jjjllxx/nus-deep-learning-ee5934)
 
 ## Project1: Spam  
 Each Matlab files includes one Machine Learning method, consisting of Beta-binomial Naive Bayes, Gaussian Naive Bayes, Logistic regression, K-Nearest Neighbors. The detail of each requirement is shown in EE5907_EE5027_SPAM.pdf.The raw data of spam is in spamData.mat.  
@@ -65,7 +70,6 @@ PCA,LDA and SVM part are completed in Matlab, which can be run directly. Since L
 <img width="250" alt="image" src="https://user-images.githubusercontent.com/60777462/203876687-1aac7074-703e-4c7f-848c-e3dd630d7555.png"><img width="250" alt="image" src="https://user-images.githubusercontent.com/60777462/203876683-76899d53-8343-471c-b5c6-cf2b9c8180b2.png"><img width="250" alt="image" src="https://user-images.githubusercontent.com/60777462/203876693-52ed09e5-de8e-41ce-9a5f-69c7b9c6c187.png">
 
 ## SVM for Classification
-
 | C parameter| raw image|	PCA 80 | PCA 200|
 |  ----  | ----  |  ----  | ----  |
 | C=0.01	| 98.44% |92.88%	| 96.09% |
